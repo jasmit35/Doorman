@@ -1,2 +1,2 @@
 # Scheduled-Cleanup
-Clean files off a server based on a configuration file.
+This project builds a script to maintain servers. 
